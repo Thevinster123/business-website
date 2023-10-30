@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(237,229,221);
+}
+.searchin{
+    background-color: rgb(95, 47, 45);
+    width: fit-content;
+    border-radius: 6px;
+}
+.searchin input{
+    background-color: rgba(0, 0, 0, 0); 
+    color: white;
+    border: 0;
+    width: 91%;
+}
+.searchin svg{
+    width: 5%;
+}
+.searchin:hover{
+    background-color: black;
+}
+.searchin input:focus{
+    outline: none;
+}
+.log{
+    color: rgb(91,47,44);
+    text-decoration: none;
+}
+.mtmore{
+    margin-top: 5.5em;
+}
+.f{
+    font-family: "Fahkwang", sans-serif;
+}
+h1{
+    font-size: 350%;
+    letter-spacing: 2px;
+}
+h2{
+    font-size: 150%;
+    letter-spacing: 2px;
+}
